@@ -1,0 +1,26 @@
+/* styles.css */
+#beats-disponibles {
+    background-color: #1F1F1F;
+  }
+  
+  .bg-gray-800 {
+    background-color: #2D2D2D;
+  }
+  
+  iframe {
+    border-radius: 8px;
+  }
+  
+  .hover\:scale-105:hover {
+    transform: scale(1.05);
+  }
+  
+
+nav {
+    background-color: rgba(92, 92, 92, 0.498); /* Fondo oscuro con transparencia */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 2); /* Sombra suave */
+  }
+
+  
+  
